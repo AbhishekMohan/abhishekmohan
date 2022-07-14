@@ -1,8 +1,13 @@
-## Abhishek Mohan (I also go by 'Ab') 🎲
-
+## [Abhishek Mohan](https://www.linkedin.com/notifications/) (I also go by 'Ab') 🎲 
 
 Software Engineer by day, <br>
 Game Developer by night (and trying to complete/publish one of my 99 started projects!)
+
+#### My (2) published games on Steam:
+[Colossal Saga (Steam link)](https://store.steampowered.com/app/1181820/Colossal_Saga/)  <br>
+A 3D fighting game with a lot of characters and maps, playable local multiplayer up to 4 players. <br>
+[Ozone Guardian (Steam link)](https://store.steampowered.com/app/1432400/Ozone_Guardian/?beta=0) <br>
+A 2D modern take on the classic space invaders game, with creative abilities, an upgrade system, and stimulating challenging bosses.
 
 
 <!--
