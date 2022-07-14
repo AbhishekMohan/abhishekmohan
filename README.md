@@ -1,4 +1,9 @@
-### Hi there 👋
+## Abhishek Mohan (I also go by 'Ab') 🎲
+
+
+Software Engineer by day, <br>
+Game Developer by night (and trying to complete/publish one of my 99 started projects!)
+
 
 <!--
 **AbhishekMohan/abhishekmohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
