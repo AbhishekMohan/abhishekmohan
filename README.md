@@ -1,4 +1,4 @@
-## [Abhishek Mohan](https://www.linkedin.com/notifications/) (I also go by 'Ab') 🎲 
+## [Abhishek Mohan](https://www.linkedin.com/in/abhishek-mohan-00196991/) (I also go by 'Ab') 🎲 
 
 Software Engineer by day, <br>
 Game Developer by night (and trying to complete/publish one of my 99 started projects!)
